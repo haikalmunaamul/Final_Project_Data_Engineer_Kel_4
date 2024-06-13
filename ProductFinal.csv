@@ -1,0 +1,43 @@
+PRODUCTID;LANGUAGE;MEDIUM_DESCR;WEIGHTMEASURE;WEIGHTUNIT;PRICE;SHORT_DESCR
+BX-1011;EN;BMX Vintage 1011  ;11.1;KG;249;BMX             
+BX-1012;EN;BMX Jump 1012     ;12;KG;399;BMX             
+BX-1013;EN;BMX Jump Lux I    ;13.1;KG;449;BMX             
+BX-1014;EN;BMX Jump Lux II   ;11.8;KG;799;BMX             
+BX-1015;EN;BMX Optima        ;12.5;KG;299;BMX             
+BX-1016;EN;BMX Optima II     ;12.8;KG;319;BMX             
+CB-1161;EN;La Plage          ;15;KG;399;Cruiser         
+CB-1162;EN;La Plage Limited  ;18;KG;400;Cruiser         
+CB-1163;EN;La Plage Gold     ;16;KG;288;Cruiser         
+CC-1021;EN;Cyclone Basic     ;8.1;KG;1144;Cyclo-cross Bike
+CC-1022;EN;Cyclone Speed     ;8;KG;1200;Cyclo-cross Bike
+CC-1023;EN;Cyclone III       ;8.6;KG;1361;Cyclo-cross Bike
+DB-1081;EN;Rooty Basic       ;13.6;KG;1499;Downhill Bike   
+DB-1082;EN;Capricorn         ;14.3;KG;1250;Downhill Bike   
+DB-1083;EN;Capricorn II      ;15.4;KG;1199;Downhill Bike   
+EB-1131;EN;Flash Drive       ;18.1;KG;1500;eBike           
+EB-1132;EN;Flash Drive II    ;18.8;KG;1900;eBike           
+EB-1133;EN;Lazy Cat          ;21;KG;2250;eBike           
+EB-1134;EN;Lazy Cat II       ;20.1;KG;4800;eBike           
+EB-1135;EN;Speedeon          ;19.3;KG;3000;eBike           
+EB-1136;EN;Speedeon Light    ;20.5;KG;5000;eBike           
+EB-1137;EN;Speedeon Cross    ;22;KG;7900;eBike           
+HB-1171;EN;Star Cruise       ;11;KG;699;Hybrid Bike     
+HB-1172;EN;Star Cruise II    ;12.1;KG;799;Hybrid Bike     
+HB-1173;EN;Universal One     ;13.5;KG;649;Hybrid Bike     
+HB-1174;EN;Universal Two     ;11.8;KG;379;Hybrid Bike     
+HB-1175;EN;Specifica         ;12.5;KG;899;Hybrid Bike     
+HB-1176;EN;Specifica Gold    ;12.9;KG;1199;Hybrid Bike     
+MB-1031;EN;Mt Discovery B    ;12.7;KG;649;Mountain Bike   
+MB-1032;EN;Mt Discovery Drive;12;KG;1299;Mountain Bike   
+MB-1033;EN;Mt Discovery Rush ;13.1;KG;3999;Mountain Bike   
+MB-1034;EN;Mt Discovery Ulti ;12.5;KG;2499;Mountain Bike   
+RC-1051;EN;Tornado I         ;7.1;KG;2499;Racing Bike     
+RC-1052;EN;Tornado II        ;7.5;KG;3999;Racing Bike     
+RC-1053;EN;Stream I          ;6.9;KG;4599;Racing Bike     
+RC-1054;EN;Stream II         ;7;KG;5499;Racing Bike     
+RC-1055;EN;Veloflash         ;7.2;KG;1999;Racing Bike     
+RC-1056;EN;Veloflash SE      ;7.8;KG;2499;Racing Bike     
+RC-1057;EN;Veloflash Ultimate;7.3;KG;4999;Racing Bike     
+RO-1001;EN;Roady 1001        ;7.7;KG;525;Road Bike       
+RO-1002;EN;Roady 1002        ;8;KG;689;Road Bike       
+RO-1003;EN;Roady 1003        ;9.1;KG;721;Road Bike       
